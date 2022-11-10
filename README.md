@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Vrushabh Donge
+- 👋 Hi, I’m Vrushabh Donge.
 - 👀 I’m interested in Control systems specifically nonlinear and Electrical engineering.
 - 🌱 I’m currently working as PhD research scholar and working on scale-free data-driven reinforcement learning optimal control algorithms.
                Skilled in Matlab, System and Control, Microsoft tools, LaTeX, Python, PLC, Typhoon HIL, and Adobe tools. 
